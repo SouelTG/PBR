@@ -1,1 +1,5 @@
 # PBR
+
+{
+  "myString": "Hello, world!"
+}
